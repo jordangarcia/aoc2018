@@ -1,0 +1,11 @@
+{
+  "name": "aoc2018",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.9.0",
+    "esprima": "^4.0.1"
+  }
+}
